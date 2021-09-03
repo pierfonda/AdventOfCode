@@ -1,6 +1,4 @@
 import matplotlib.pyplot as plt
-from queue import Queue
-
 
 #from itertools import combinations_with_replacement as cwr
 from itertools import permutations
